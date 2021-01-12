@@ -159,8 +159,23 @@ Given R, solve the global step by updating new vertices position in **U**.
 
 Run ADMM on each vertex i until convergeance, alternating between minimizing w.r.t Ri then z.
 
-## Sources
-
+## References
+```
+@article{DBLP:journals/corr/abs-1910-02926,
+  author    = {Hsueh{-}Ti Derek Liu and
+               Alec Jacobson},
+  title     = {Cubic Stylization},
+  journal   = {CoRR},
+  volume    = {abs/1910.02926},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1910.02926},
+  archivePrefix = {arXiv},
+  eprint    = {1910.02926},
+  timestamp = {Wed, 09 Oct 2019 14:07:58 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1910-02926.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 ADMM
 
 ```
