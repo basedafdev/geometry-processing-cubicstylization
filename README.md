@@ -25,7 +25,7 @@ It has also taken shape in modern day pop-culture. For instance popular video ga
 
 **Notation**
 
-Intuiitevely we want to deform our mesh into a cube while preserving the integrity of local features, so a good starting candidate would be the ARAP energy.
+Intuitevely we want to deform our mesh into a cube while preserving the integrity of local features, so a good starting candidate would be the ARAP energy.
 
 Let's represent our shape discretely as a [triangle
 mesh](https://en.wikipedia.org/wiki/Triangle_mesh) with _rest_ vertices
